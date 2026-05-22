@@ -1,3 +1,5 @@
+# Traffic-EDA-Analysis
+
 #  Temporal & Environmental Traffic Analysis on an Essential Urban Junction
 
 A comprehensive Exploratory Data Analysis (EDA) evaluating urban traffic behavior under various temporal factors (hourly shifts, rush hours, seasonal variances) and weather conditions (rainfall depth, visibility, temperature variations).
