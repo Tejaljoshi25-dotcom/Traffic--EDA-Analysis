@@ -21,11 +21,7 @@ Most traffic literature focuses strictly on morning peaks inside office-dominate
 
 ---
 
-## Visualizations Highlights
-*(Save your plots into the `images/` directory and link them below to illustrate your work)*
 
-  
-*Figure 1: Average hourly vehicle distribution revealing evening rush hour dominance.*
 
 ---
 
